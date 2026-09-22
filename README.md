@@ -25,4 +25,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/jisanwdr-ui/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/jisanwdr-ui/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
