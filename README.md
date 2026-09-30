@@ -34,4 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jisanwdr-ui/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/jisanwdr-ui/leetcode/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/jisanwdr-ui/leetcode/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
