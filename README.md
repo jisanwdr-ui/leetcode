@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/jisanwdr-ui/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/jisanwdr-ui/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0268-missing-number/) | Easy |
 | [2974-minimum-number-game](https://github.com/jisanwdr-ui/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/jisanwdr-ui/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/jisanwdr-ui/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Sorting
