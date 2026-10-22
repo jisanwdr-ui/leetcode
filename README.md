@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jisanwdr-ui/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/jisanwdr-ui/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/jisanwdr-ui/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0268-missing-number/) | Easy |
 | [2974-minimum-number-game](https://github.com/jisanwdr-ui/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Hash Table
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jisanwdr-ui/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/jisanwdr-ui/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/jisanwdr-ui/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/jisanwdr-ui/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Sorting
@@ -74,4 +76,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/jisanwdr-ui/leetcode/tree/main/0100-same-tree/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/jisanwdr-ui/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
