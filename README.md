@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jisanwdr-ui/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jisanwdr-ui/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0268-missing-number/) | Easy |
+| [1816-truncate-sentence](https://github.com/jisanwdr-ui/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [2974-minimum-number-game](https://github.com/jisanwdr-ui/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/jisanwdr-ui/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jisanwdr-ui/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/jisanwdr-ui/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1816-truncate-sentence](https://github.com/jisanwdr-ui/leetcode/tree/main/1816-truncate-sentence/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
