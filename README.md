@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jisanwdr-ui/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/jisanwdr-ui/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jisanwdr-ui/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/jisanwdr-ui/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -88,4 +89,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jisanwdr-ui/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jisanwdr-ui/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jisanwdr-ui/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
