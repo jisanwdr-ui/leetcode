@@ -42,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/jisanwdr-ui/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/jisanwdr-ui/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/jisanwdr-ui/leetcode/tree/main/1816-truncate-sentence/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/jisanwdr-ui/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jisanwdr-ui/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/jisanwdr-ui/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jisanwdr-ui/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/jisanwdr-ui/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
