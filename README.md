@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jisanwdr-ui/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/jisanwdr-ui/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0520-detect-capital](https://github.com/jisanwdr-ui/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jisanwdr-ui/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/jisanwdr-ui/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/jisanwdr-ui/leetcode/tree/main/1816-truncate-sentence/) | Easy |
