@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jisanwdr-ui/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jisanwdr-ui/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/jisanwdr-ui/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jisanwdr-ui/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jisanwdr-ui/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jisanwdr-ui/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/jisanwdr-ui/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Divide and Conquer
