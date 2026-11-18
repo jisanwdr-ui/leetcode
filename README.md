@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jisanwdr-ui/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/jisanwdr-ui/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0520-detect-capital](https://github.com/jisanwdr-ui/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jisanwdr-ui/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/jisanwdr-ui/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0268-missing-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
