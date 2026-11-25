@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/jisanwdr-ui/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/jisanwdr-ui/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/jisanwdr-ui/leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0461-hamming-distance](https://github.com/jisanwdr-ui/leetcode/tree/main/0461-hamming-distance/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
